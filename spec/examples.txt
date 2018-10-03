@@ -1,0 +1,5 @@
+example_id                         | status | run_time        |
+---------------------------------- | ------ | --------------- |
+./spec/static_pages_spec.rb[1:1:1] | passed | 0.27649 seconds |
+./spec/static_pages_spec.rb[1:1:2] | passed | 0.0037 seconds  |
+./spec/static_pages_spec.rb[2:1:1] | passed | 0.00367 seconds |
